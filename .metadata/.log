@@ -760,3 +760,15 @@ Java Model Exception: Error in Java Model (code 969): 14_SpringORM_Using_XML doe
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-07 00:28:43.235
 !MESSAGE Classpath changed for project: 14_Spring_ORM_Using_XML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-07 00:29:53.627
+!MESSAGE Classpath changed for project: 14_Spring_ORM_Using_XML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-07 00:29:53.631
+!MESSAGE Boot project ADDED: 14_Spring_ORM_Using_XML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-07 00:29:53.660
+!MESSAGE Classpath changed for project: 14_Spring_ORM_Using_XML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-07 00:30:29.586
+!MESSAGE Classpath changed for project: 14_Spring_ORM_Using_XML
