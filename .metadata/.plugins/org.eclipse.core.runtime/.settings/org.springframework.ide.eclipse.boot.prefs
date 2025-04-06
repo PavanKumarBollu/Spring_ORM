@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=14_SpringORM_Using_XML
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.4.4
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Project to work on spring orm part
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=Pavan_Solutions
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=21
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=14_SpringORM_Using_XML
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.pavan
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=war
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=1.1
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

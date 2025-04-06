@@ -1,0 +1,63 @@
+0:02:13 Tab6 StartNav20 #auto_toplevel
+0:02:13 Tab6 StartNav21 #typed
+0:02:13 Tab6 FinishNav20
+0:02:13 Tab6 PageLoad
+0:02:13 Tab6 FinishNav21
+0:02:13 Tab6 PageLoad
+0:02:20 Tab4 StartNav22 #typed
+0:02:20 Tab4 FinishNav22
+0:02:20 Tab4 PageLoad
+0:02:21 Tab4 StartNav23 #typed
+0:02:21 Tab4 FinishNav23
+0:02:21 Tab4 PageLoad
+0:02:22 Microsoft.Shutdown.OnWindowClosing
+0:02:22 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:02:22 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:02:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:22 Tab6 RenderProcessGone
+0:02:22 Browser6 Close Tab6 at 0
+0:02:22 Tab6 WebContentsDestroyed
+0:02:22 Microsoft.Shutdown.OnWindowClosing
+0:02:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:22 Widget Closed: BrowserFrame
+0:02:22 Microsoft.Shutdown.OnWindowClosing
+0:02:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:22 Microsoft.Browser_Removed
+0:02:22 Microsoft.NewBrowser_Popup
+0:02:22 Microsoft.BrowserList.AddBrowser
+0:02:22 Browser7 Insert active Tab7 at 0
+0:02:22 Tab7 StartNav24 #auto_toplevel
+0:02:22 Tab7 StartNav25 #typed
+0:02:22 Tab7 FinishNav24
+0:02:22 Tab7 PageLoad
+0:02:22 Tab7 FinishNav25
+0:02:22 Tab7 PageLoad
+0:02:26 Tab4 StartNav26 #typed
+0:02:26 Tab4 FinishNav26
+0:02:26 Tab4 PageLoad
+0:02:27 Tab4 StartNav27 #typed
+0:02:27 Tab4 FinishNav27
+0:02:27 Tab4 PageLoad
+0:02:27 Microsoft.Shutdown.OnWindowClosing
+0:02:27 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:02:27 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:02:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:27 Tab7 RenderProcessGone
+0:02:27 Browser7 Close Tab7 at 0
+0:02:27 Tab7 WebContentsDestroyed
+0:02:27 Microsoft.Shutdown.OnWindowClosing
+0:02:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:27 Widget Closed: BrowserFrame
+0:02:27 Microsoft.Shutdown.OnWindowClosing
+0:02:27 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:02:27 Microsoft.Browser_Removed
+0:02:27 Microsoft.NewBrowser_Popup
+0:02:28 Microsoft.BrowserList.AddBrowser
+0:02:28 Browser8 Insert active Tab8 at 0
+0:02:28 Tab8 StartNav28 #auto_toplevel
+0:02:28 Tab8 StartNav29 #typed
+0:02:28 Tab8 FinishNav28
+0:02:28 Tab8 PageLoad
+0:02:28 Tab8 FinishNav29
+0:02:28 Tab8 PageLoad
+0:06:59 Microsoft.Shutdown.OnWindowClosing
