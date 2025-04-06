@@ -17,8 +17,10 @@ public class StudentDaoImpl implements IStudentDao {
 
 	@Override
 	public int insert(StudentBo s) {
-		// TODO Auto-generated method stub
-		return 0;
+		int count = (int)hTemplate.save(s);
+		
+		
+		return count;
 	}
 
 	@Override
